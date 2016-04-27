@@ -1,6 +1,6 @@
 # compiler
 
-Compile Java code in memory using Java 7 compiler API.
+Compile Java code in memory using Java 6 compiler API.
 
 ### Why compiler API?
 
