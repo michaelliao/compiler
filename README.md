@@ -2,6 +2,8 @@
 
 Compile Java code in memory using Java 6 compiler API.
 
+[![Build Status](https://travis-ci.org/michaelliao/compiler.svg?branch=master)](https://travis-ci.org/michaelliao/compiler)
+
 ### Why compiler API?
 
 You can use compiler API to compile generated Java source code and load the compiled classes on-the-fly.
