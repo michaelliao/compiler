@@ -3,5 +3,5 @@ language: java
 jdk:
   - oraclejdk7
 
-script: 'mvn clean package'
+script: 'mvn clean test compile'
 
